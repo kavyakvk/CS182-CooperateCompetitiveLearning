@@ -1,4 +1,4 @@
-# CS182FinalProject
+# CoperativeCompetitiveLearning
 Cooperative and Competitive Learning Agents in games with Non Pareto Optimal Nash Equilibria
 
 ## System Description
